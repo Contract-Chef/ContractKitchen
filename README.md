@@ -1,2 +1,2 @@
 # ContractKitchen
-Templates of contracts
+This repository contains templates of contracts that might assist startups and other companies in contracting.
