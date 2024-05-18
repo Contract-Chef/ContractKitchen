@@ -1,0 +1,2 @@
+# ContractKitchen
+Templates of contracts
